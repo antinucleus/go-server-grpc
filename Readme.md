@@ -8,4 +8,4 @@ APIs of this server are created with grpc
 
 > For running the server only `go` should be installed. But if you change the `login.proto` file you should regenerate proto file so you should install `protoc` for generating files.For generating you can run `generate.sh` file
 
-> After installed `go` open in command shell in this directory `login/login_server/` and run this command `go run ./server.go`
+> After installed `go` open command shell in this directory `login/login_server/` and run this command `go run ./server.go`
